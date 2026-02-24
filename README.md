@@ -45,6 +45,9 @@ I am a **.NET Developer with 4+ years of professional experience** in building, 
 ### 🌐 Frontend (Basic)
 - HTML
 - CSS
+- Java Script
+- Bootstrap
+- React (Beginner)
 
 ### ⚙️ Tools
 - SVN
