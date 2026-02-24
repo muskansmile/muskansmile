@@ -17,7 +17,7 @@
 
 ## 👩‍💻 About Me
 
-I am a **.NET Developer 4+ years of professional experience** in building, enhancing, and maintaining web applications.
+I am a **.NET Developer with 4+ years of professional experience** in building, enhancing, and maintaining web applications.
 
 - 🏛️ Worked on **Australian Government sports platforms**
 - ⚙️ Strong in **ASP.NET, C#, Web API, SQL Server**
